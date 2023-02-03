@@ -2,28 +2,18 @@
   "users":[
     {
       "id": 1,
-      "name": "Rick",
-      "deck": [7,12,45,37]
+      "name": "Ciceri",
+      "deck": [1,2,3,4,5]
     },
     {
       "id": 2,
-      "name": "Morty",
-      "deck": [345,567,44,89]
+      "name": "Si,mon",
+      "deck": [56,98,152,65,3]
     },
     {
       "id": 3,
-      "name": "Jerry",
-      "deck": [441,117,678,500]
-    },
-    {
-      "id": 4,
-      "name": "Beth",
-      "deck": [321,343,777,666]
-    },
-    {
-      "id": 5,
-      "name": "Summer",
-      "deck": [10,21,189,199]
+      "name": "Yosoi",
+      "deck": [2,84,56,245,5]
     }
   ]
 }
